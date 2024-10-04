@@ -25,7 +25,7 @@
 <link rel="stylesheet" media="screen" href="/packs/css/front-0a03b14c.css" data-turbolinks-track="reload" />
 <meta name="action-cable-url" content="/cable" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="a_q8WZSbnuxtzGtTg_eJGjnavYnJc6nu6T5NEknefHW5TIxO5ObaJ2j52w9DZXg7NFlZXIt81gQ9C5EhOQLriw" />
+<meta name="csrf-token" content="J7uYNup2F5VBV1ps-9SSVFJiyE_qLh2yofm1cKPPi5uaX0wK5WCucU6IvZiqbVYr-ZLTpY-kxR2HeJYT8zfMRw" />
 <style>
 .node-list {
   display: block;
